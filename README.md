@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <center><h1>TripleTen ex Practicum Data Science Projects</h1></center>
 <a href="https://triple-ten.com/"><img width=100% src="https://cdn.prod.website-files.com/6053a5b7250a503b3254324e/648888cce64065dc221f1282_tg_image_1106365471.jpeg"></a><br><br>
 <p align=center>
@@ -16,88 +14,89 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td width=20%>Used libraries</td>
   </tr>
   <tr>
-    <td><a>Y. Music Preferences</a></td>
-    <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
-    <td>Python, Pandas, Numpy</td>
-  </tr>
-  <tr>
-    <td><a>Sure Tomorrow Insurance</a></td>
-    <td>Machine Learning Solutions for "Sure Tomorrow" Insurance Company to predict likelihood of claims and identify target clients.</td>
-    <td>Python, Pandas, Sklearn, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a>Shop client age determination</a></td>
-    <td>Build a machine learning model that determines the approximate age of a person from a photo. There is a set of photos of people with an indication of their age.</td>
-    <td>Pandas, keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a>Prediction of Taxi Orders</a></td>
-    <td>Trained a Machine Learning model to predict the number of taxi trips for the next hour.</td>
-    <td>Pandas, sklearn, numpy, LightGBM, Matplotlib, StatsModels, CatBoost, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a>OilyGiant Mining Prediction</a></td>
-    <td>Analysis of geological exploration data from prospective areas to predict oil reserves.</td>
-    <td>Pandas, Sklearn, Numpy, Seaborn, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a>Music taste analysis</a></td>
-    <td>Comparison of musical tastes of Moscow and St. Petersburg. How different is the music that plays on the way to work on Monday morning from the one that plays on Wednesday or at the end of the work week.</td>
-    <td>Python, Pandas, Numpy</td>
-  </tr>
-  <tr>
-    <td><a>Loan Risk Analysis</a></td>
-    <td>Credit Risk Assessment: Marital Status, Children, and Loan Repayment.</td>
-    <td>Python, Pandas, Numpy, Sklearn, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a>Gold recovery process optimization</a></td>
-    <td>Developed a model predicting the recovery rate of gold from gold ore.</td>
-    <td>Pandas, Sklearn, Numpy, Seaborn, Matplotlib, Math, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a>Determination of a profitable plan for a telecom company</a></td>
-    <td>Analyzed customer behavior to find the optimal telecom plan for clients.</td>
-    <td>Python, Pandas, Matplotlib, numpy, SciPy, Statistics, Math</td>
-  </tr>
-  <tr>
-    <td><a>Customer Churn Prediction</a></td>
-    <td>Using historical data to build a predictive model for customer retention.</td>
-    <td>Pandas, Sklearn, Numpy, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a>Car price determination</a></td>
-    <td>Trained the Machine Learning model to determine the market value of the car.</td>
-    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning, CatBoost, XGBoost</td>
-  </tr>
-  <tr>
-    <td><a>Banks client churn rate</a></td>
-    <td>Analysis of the outflow of clients from the bank to select a strategy.</td>
-    <td>Machine Learning, Pandas, Matplotlib, Seaborn, Numpy, Sklearn, Math</td>
-  </tr>
-  <tr>
-    <td><a>Apartment research analysis</a></td>
-    <td>Using data from the Yandex.Realty service, determined the market value of real estate objects.</td>
-    <td>Python, Pandas, Matplotlib, Exploratory Data Analysis, Math</td>
-  </tr>
-  <tr>
-    <td><a>Gold Acquisition</a></td>
-    <td>Machine Learning Model Prototype for AU Concentrate Prediction at Zyfra.</td>
-    <td>Pandas, Sklearn, Numpy, LightGBM, Machine Learning</td>
-  </tr>
-  <tr>
-    <td><a>Game industry research</a></td>
-    <td>Identified patterns that determine the success of a game using historical data.</td>
-    <td>Python, Pandas, Numpy, Matplotlib, Seaborn, Statistics</td>
-  </tr>
-  <tr>
-    <td><a>Comment toxic classification</a></td>
-    <td>Automated toxicity assessment of comments for moderation purposes.</td>
-    <td>Pandas, Python, Machine Learning, NLTK, LightGBM, Sklearn</td>
-  </tr>
-  <tr>
-    <td><a>Profitable drilling oil spots</a></td>
-    <td>Built a machine learning model that helps determine the most profitable oil extraction regions.</td>
-    <td>Pandas, Sklearn, Math, Numpy, Seaborn, Machine Learning</td>
-  </tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint1.ipynb">Y. Music Preferences</a></td>
+  <td>Music Preferences Analysis: Springfield vs. Shelbyville</td>
+  <td>NumPy, Pandas</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint2.ipynb">Loan Risk Analysis</a></td>
+  <td>Credit Risk Assessment: Marital Status, Children, and Loan Repayment</td>
+  <td>NumPy, Pandas</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint3.ipynb">Car Price Analysis</a></td>
+  <td>To test the hypothesis that a vehicle’s price is more influenced by its mileage, as mileage significantly affects the vehicle’s overall condition.</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint4.ipynb">Telecommunication Plan Analysis</a></td>
+  <td>Prepaid Plan Analysis at Megaline</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, SciPy</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint5.ipynb">Ice Store Game Analysis</a></td>
+  <td>Game Sales and Popularity Analysis</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, SciPy</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint6.ipynb">Ride-sharing Data Analysis Project</a></td>
+  <td>Data Analysis project to uncover travel patterns, passenger preferences, and the impact of external factors such as weather.</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, SciPy</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint6 - SQL.ipynb">Data Collection and Storage</a></td>
+  <td>We scraped the Chicago Weather Records 2017 data from web using Beautiful Soup in Python and managed it using SQL for analysis and pattern discovery, and test a hypothesis about the impact of weather on ride frequency.</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, SciPy, Requests, BeautifulSoup</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint7.ipynb">Telecommunication Service Package</a></td>
+  <td>Predictive Modeling for Megaline Packages</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint8.ipynb">Customer Churn Prediction</a></td>
+  <td>Predictive Modeling for Customer Retention at Beta Bank</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint9.ipynb">OilyGiant Mining Prediction</a></td>
+  <td>Predictive Modeling for OilyGiant Well Locations</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint10.ipynb">Gold Acquisition</a></td>
+  <td>Machine Learning Model Prototype for AU Concentrate Prediction at Zyfra</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint11.ipynb">Sure Tomorrow Insurance</a></td>
+  <td>Machine Learning Solutions for "Sure Tomorrow" Insurance Company</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint12.ipynb">Car Sales Price Prediction</a></td>
+  <td>Car Market Value Prediction for Rusty Bargain</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost, XGBoost</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint13.ipynb">Forecasting Airport Taxi Demand</a></td>
+  <td>Taxi Order Prediction for Sweet Lift</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost, XGBoost</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint14.ipynb">Sentiment Analysis on Movie Reviews</a></td>
+  <td>Movie Review Filtering for Film Junky Union</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, tqdm, spaCy, NLTK, LightGBM</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/Sprint15.ipynb">Age Prediction on Supermarket</a></td>
+  <td>Training and evaluating a model to automatically detect the age of a customer at a checkout counter.</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, ResNet50</td>
+</tr>
+<tr>
+  <td><a href="https://github.com/fawwazaid/DataScience_Portofolio/blob/main/PracticumFinal.ipynb">Final Project: Temperature Prediction of Steel Processing</a></td>
+  <td>Optimizing production costs by reducing energy consumption through analyzing historical data from the different stages of steel processing, and creating a model from the consolidated data that can predict the final temperature of finished steel.</td>
+  <td>NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost, XGBoost</td>
+</tr>
+
 </table>
