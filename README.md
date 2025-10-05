@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 <center><h1>TripleTen ex Practicum Data Science Projects</h1></center>
 <a href="https://triple-ten.com/"><img width=100% src="https://cdn.prod.website-files.com/6053a5b7250a503b3254324e/648888cce64065dc221f1282_tg_image_1106365471.jpeg"></a><br><br>
 <p align=center>
